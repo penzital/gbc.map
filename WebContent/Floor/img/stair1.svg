@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Svg Vector Icons : http://www.onlinewebfonts.com/icon -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   x="0px"
+   y="0px"
+   viewBox="0 0 1000 1000"
+   enable-background="new 0 0 1000 1000"
+   xml:space="preserve"
+   id="circle"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="stair1.svg"><defs
+     id="defs13" /><sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="745"
+     id="namedview11"
+     showgrid="false"
+     inkscape:zoom="0.236"
+     inkscape:cx="500"
+     inkscape:cy="500"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g4144" /><metadata
+     id="metadata3"> Svg Vector Icons : http://www.onlinewebfonts.com/icon <rdf:RDF><cc:Work
+     rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+       rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><g
+     id="g5"><g
+       id="g7"><path
+         d="M990,500c0,88.9-21.9,170.9-65.7,246C880.5,821,821,880.5,746,924.3C670.9,968.1,588.9,990,500,990s-170.9-21.9-246-65.7S119.5,821,75.7,746C31.9,670.9,10,588.9,10,500s21.9-170.9,65.7-246C119.5,179,179,119.5,254,75.7C329.1,31.9,411.1,10,500,10s170.9,21.9,246,65.7C821,119.5,880.5,179,924.3,254S990,411.1,990,500z"
+         id="path9" /></g></g><g
+     id="g4144"
+     transform="translate(12.711863,-16.949151)"
+     style="fill:#ffffff"><path
+       d="m 769.96441,281.72373 -251.8,0 0,200 -200,0 0,200 -165.4,0 0,87.4 252.8,0 0,-200 200,0 0,-200 164.4,0 0,-87.4 z"
+       id="path4148"
+       inkscape:connector-curvature="0"
+       style="fill:#ffffff" /></g></svg>

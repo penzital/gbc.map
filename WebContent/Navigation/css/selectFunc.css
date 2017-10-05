@@ -1,0 +1,95 @@
+@import url(http://fonts.googleapis.com/css?family=Lato:300,400,700);
+@font-face {
+	font-family: 'codropsicons';
+	src:url('../fonts/codropsicons/codropsicons.eot');
+	src:url('../fonts/codropsicons/codropsicons.eot?#iefix') format('embedded-opentype'),
+		url('../fonts/codropsicons/codropsicons.woff') format('woff'),
+		url('../fonts/codropsicons/codropsicons.ttf') format('truetype'),
+		url('../fonts/codropsicons/codropsicons.svg#codropsicons') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+a {
+	text-decoration: none;
+	color: #fff;
+}
+
+.container > header,
+.codrops-top {
+	font-family: 'Lato', Arial, sans-serif;
+	color: #fff;
+	background: #3498db;
+}
+
+.container > header {
+	margin: 0 auto;
+	padding: 0.5em 1em 0.5em;
+	text-align: center;
+}
+
+h1 {
+	font-size: 6vmin;
+	line-height: 1;
+	margin: 1vmin;
+	font-weight: 300;
+}
+h6{
+	font-size: 1vmin;
+	line-height: 1;
+	margin: 1vmin;
+	font-weight: 300;
+}
+.container > header span {
+	display: block;
+	font-size: 60%;
+	opacity: 0.7;
+	padding: 0 0 0.6em 0.1em;
+}
+
+
+
+.related {
+	/*border-radius: 0px 0px 290px 290px;
+	background: #3498db;
+	color: #fff;
+	text-align: center;
+	font-family: 'Paytone One', sans-serif;*/
+}
+
+.related a {
+	font-weight: 700;
+	color: #3498db;
+	opacity: 0.7;
+}
+
+.related a:hover {
+	opacity: 1;
+}
+
+@media screen and (max-width: 25em) {
+
+	
+			
+			#beginSelect, #endSelect{
+				height:100%;
+				width:100%;
+				margin: 1vmin;
+				position:relative;
+			}
+
+			.related {
+				
+				text-align: center;
+				font-family: 'Paytone One', sans-serif;
+			}
+
+			.related a {
+				font-weight: 700;
+				color: #3498db;
+				opacity: 0.7;
+			}
+
+			.related a:hover {
+				opacity: 1;
+			}

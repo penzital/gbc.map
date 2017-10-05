@@ -1,0 +1,19 @@
+/*Pin data category for backgound color*/
+
+.pin[data-category='stair'] .icon--pin {
+	fill: #D7A841;
+}
+.pin[data-category='elevator'] .icon--pin {
+	fill: grey;
+}
+.pin[data-category='washroom'] .icon--pin {
+	fill: #0094F1;
+}
+
+.pin[data-category='emexit'] .icon--pin {
+	fill: yellow;
+}
+
+.pin[data-category='lab'] .icon--pin {
+	fill: white;
+}
