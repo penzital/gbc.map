@@ -20,6 +20,10 @@ public interface DAO {
 	 static List<Room> getRooms(){	return null;}
 	 static boolean roomUpdate(){
 		return false; }
+
+
+
+
 	 static List<Student> getStudents(){ return null; }
 	 
 	 
