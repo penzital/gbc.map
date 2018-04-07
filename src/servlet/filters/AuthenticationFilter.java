@@ -22,7 +22,7 @@ public class AuthenticationFilter implements Filter {
 		this.context = fConfig.getServletContext();
 		this.context.log("AuthenticationFilter initialized");
 	}
-	
+	//whyyyyyyy
 	public void doFilter(ServletRequest request, ServletResponse response, FilterChain chain) throws IOException, ServletException {
 
 		HttpServletRequest req = (HttpServletRequest) request;
